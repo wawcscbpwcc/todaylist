@@ -5,12 +5,13 @@
   </div>
 </template>
 
-//
+
 <style >
 /* 
  <style  scoped> 加上 scoped 样式只会在本组件生效
 样式初始化 
 */
+
 html,
 body,
 div,
